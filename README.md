@@ -1,5 +1,7 @@
 # Vue ecommerce
 - This is a part of https://github.com/VThuan5421/django_ecommerce.git
+
+![Screenshot](image.png)
 ## Project setup
 ```
 npm install
